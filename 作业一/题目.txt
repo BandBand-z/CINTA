@@ -1,0 +1,8 @@
+作业一、编程（乘法、GCD、EGCD）、证明
+
+一、给出实现以下算法的C语言程序：
+1、Simple Multiplication
+2、binary gcd
+3、binary egcd
+
+二、给出Division Theorem 和 Bezout Theorem的证明。

@@ -1,0 +1,12 @@
+ CINTA作业三、证明题、编程
+
+1、Prove：Let $\mathbb{G}$ be a group, for any two elements $a, b \in \mathbb{G}$. Then the equation $ax = b$ and $xa = b $ have unique solutions in $\mathbb{G}$.
+
+
+2、Prove：Let $\mathbb{G}$ be a group, and $a, b, c \in \mathbb{G}$. Then $ba = ca$ implies $b = c$ and $ab = ac$ implies $b = c$.
+
+
+3、Write a Python program to compute Eurler's phi function. That is, given an integer n, return Phi(n).
+
+
+4、Prove ： Let $m = p_1^{a_1} p_2^{a_2}\cdots p_k^{a_k}$, then $\phi(m) = m(1 - 1/p_1)(1 - 1/p_2) \cdots (1 - 1/p_k)$.
